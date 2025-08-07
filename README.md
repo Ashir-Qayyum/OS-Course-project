@@ -109,7 +109,11 @@ Limitations and improvements<br>📄 Read the full Project Report (PDF)
 
 ---
 
-🙋‍♂️ Author<br>Muhammad Ashir<br>Student of FAST-NUCES, Karachi<br>For contributions or queries, feel free to connect on LinkedIn [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg) ashir-qayyum](https://www.linkedin.com/in/ashir-qayyum)
+🙋‍♂️ Author<br>Muhammad Ashir<br>Student of FAST-NUCES, Karachi<br>For contributions or queries, feel free to connect on LinkedIn <a href="https://www.linkedin.com/in/ashir-qayyum" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24" />
+  ashir-qayyum
+</a>
+
 
 
 ---
