@@ -101,10 +101,11 @@ Limitations and improvements<br>📄 Read the full Project Report (PDF)
 ---
 
 🧪 Tested On<br>
-&nbsp;&nbsp;&nbsp;OS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Status<br>
-✅ Linux (Ubuntu)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Fully Functional<br>
-✅ WSL (Windows Subsystem for Linux)&nbsp;&nbsp;✔️ Functional<br>
-❌ Native Windows&nbsp;&nbsp;&nbsp;&nbsp;&nbsp❌ Not supported (POSIX threads not available natively)
+| OS        | Status |
+|------------------|-------------|
+| ✅ Linux           | ✔️ Fully Functional |
+| ✅ WSL (Windows Subsystem for Linux) | ✔️ Functional |
+| ❌ Native Windows | ❌ Not supported (POSIX threads not available natively) |
 
 ---
 
