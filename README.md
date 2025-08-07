@@ -36,9 +36,9 @@ This project is a console-based C++ simulation of the classic **Chain Smoker Syn
 
 ### 📁 File Structure
 
-├── console_version_chainsmoker.cpp        # Main program file
-├── Project Report.pdf                     # Detailed explanation of logic and implementation
-├── Screenshot.png                         # Console output snapshot
+├── console_version_chainsmoker.cpp        # Main program file<br>
+├── Project Report.pdf                     # Detailed explanation of logic and implementation<br>
+├── Screenshot.png                         # Console output snapshot<br>
 └── README.md                              # You're reading it!
 
 ---
@@ -63,8 +63,7 @@ Make sure you have the following installed:
 #### 🚀 Compile
 g++ console_version_chainsmoker.cpp -o console_version_chainsmoker -lpthread
 
-▶️ Run
-./console_version_chainsmoker
+▶️ Run<br>./console_version_chainsmoker
 
 ---
 
@@ -79,21 +78,17 @@ During execution, you will see:
 
 Example log:
 
-Smoker 1 waiting for paper & matches 
-==> Smoker1 is making a cigarette
-Now Smoking
+Smoker 1 waiting for paper & matches<br>==> Smoker1 is making a cigarette<br>Now Smoking
 
 ---
 
-📚 Project Report
-For a complete breakdown of:
+📚 Project Report<br>For a complete breakdown of:
 
 - Libraries and their usage
 - Threading model
 - Synchronization logic
 
-Limitations and improvements
-📄 Read the full Project Report (PDF)
+Limitations and improvements<br>📄 Read the full Project Report (PDF)
 
 ---
 
@@ -105,20 +100,16 @@ Limitations and improvements
 
 ---
 
-🧪 Tested On
-            OS	                                       Status
-✅ Linux (Ubuntu)	                      ✔️ Fully Functional
-✅ WSL (Windows Subsystem for Linux)	  ✔️ Functional
-❌ Native Windows                      	❌ Not supported (POSIX threads not available natively)
+🧪 Tested On<br>
+&nbsp;&nbsp;&nbsp;OS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Status<br>
+✅ Linux (Ubuntu)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Fully Functional<br>
+✅ WSL (Windows Subsystem for Linux)&nbsp;&nbsp;✔️ Functional<br>
+❌ Native Windows&nbsp;&nbsp;&nbsp;&nbsp;&nbsp❌ Not supported (POSIX threads not available natively)
 
 ---
 
-🙋‍♂️ Author
-Muhammad Ashir
-Student of FAST-NUCES, Karachi
-For contributions or queries, feel free to connect on LinkedIn [linkedin/in/ashir-qayyum]
+🙋‍♂️ Author<br>Muhammad Ashir<br>Student of FAST-NUCES, Karachi<br>For contributions or queries, feel free to connect on LinkedIn [linkedin/in/ashir-qayyum]
 
 ---
 
-📜 License
-This project is licensed for educational and academic use. Attribution appreciated.
+📜 License<br>This project is licensed for educational and academic use. Attribution appreciated.
